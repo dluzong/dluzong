@@ -6,8 +6,8 @@
 Hi! I'm Daphne Luzong. I'm a junior Computer Science major and minor in Mathematics and Media Studies at CUNY Hunter College.
 I'm a part of the Daedalus Honors Scholars Program at Hunter and I currently TA for an Intro to Computer Science class. <br>
 
-I am interested in SWE and Software Development as well as UX/UI Design and Product Design.
-I enjoy all things creative and hope to integrate that into projects I work on. 🌱 <br>
+I am interested in exploring Software Engineering, Fullstack, UX/UI Design, and Product Design.
+I enjoy all things creative 🌱 <br>
 
 In my free time I enjoy watching dramas and anime, listening to music, making art, and spending time with my dog Daisy 🌼 <br>
 
